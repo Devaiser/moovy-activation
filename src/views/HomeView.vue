@@ -2,11 +2,10 @@
   <main>
     <CodeActivation />
   </main>
-  <Footer />
+  <TheFooter />
 </template>
 <script setup>
-  import CodeActivation from '@/components/CodeActivation.vue';
-  import Footer from '@/components/Footer.vue';
+import CodeActivation from '@/components/CodeActivation.vue';
+import TheFooter from '@/components/TheFooter.vue';
 </script>
-<style scoped>
-</style>
+<style scoped></style>
